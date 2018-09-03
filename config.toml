@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "After Nine"
+title = "After Nine by Cait"
 theme = "kube"
 description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
 Paginate = 4
