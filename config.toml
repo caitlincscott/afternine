@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "After Nine by Cait"
+title = "After Nine"
 theme = "kube"
-description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
+description = "Kube is a professional and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
 Paginate = 4
 [Params]
   RSSLink = "/index.xml"
@@ -11,15 +11,16 @@ Paginate = 4
   twitter = "" # add your twitter profile
   email = "myemail@myaddress.xxx"
 
-[[menu.main]]
-    name = "Docs"
-    weight = -100
-    url = "/docs/"
+
 [[menu.main]]
     name = "Blog"
     weight = -100
     url = "/blog/"
 [[menu.main]]
-    name = "Faq"
+    name = "About"
     weight = -100
     url = "/faq/"
+[[menu.main]]
+    name = "Schedules"
+    weight = -100
+    url = "/schedules/"
