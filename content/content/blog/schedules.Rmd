@@ -1,0 +1,21 @@
+---
+title: Schedules
+author: cdoms
+date: '2018-10-16'
+slug: schedules
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+```{r, echo = FALSE}
+library(googlesheets)
+library(dplyr)
+my_gsheet_key <- "1vWC1mHbpr9UukGPYTUr8eo5IVU_ePTW79AKzQf28v2Q"
+my_gsheet <- gs_key(my_gsheet_key, visibility = "public") 
+
+
+
+
+```

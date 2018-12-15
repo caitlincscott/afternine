@@ -1,5 +1,4 @@
-+++
-draft= false
+
 title = "About Root + Rally"
 +++
 
@@ -15,5 +14,6 @@ I started working on Root + Rally in 2018 after making a personal challenge to a
 Since starting Root + Rally, I’ve read a lot about the barriers female athletes face. As someone who began her career in media, I’m especially interested in research that focuses on the coverage of female athletes. According to the Tucker Center for Research on Girls & Women in Sport at the University of Minnesota, <a href="http://www.cehd.umn.edu/tuckercenter/projects/mediacoverage.html">it’s estimated</a> that while 40 percent of American athletes are female, women’s sports receive only 4 percent of media coverage. Furthermore, a <a href="https://wmc.3cdn.net/83bf6082a319460eb1_hsrm680x2.pdf">2015 report</a> by The Women’s Media Center showed that only 10.2 percent of sports coverage in 2014 was produced by women and 90 percent of sports editors are men. 
 
 It’s clear we need more coverage of women’s sports—especially coverage that is created by women, and I want to help. With this in mind, I’m excited to share Root + Rally with you. I hope this site will make it easier for you to find pro women’s games to watch and have fun while doing it. Have a question or want to get in touch? Email me: HERE. 
+
 
  
