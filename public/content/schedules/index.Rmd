@@ -1,0 +1,36 @@
+---
+title: "Schedules"
+type: "schedules"
+---
+
+## 2018 NWSL Schedule
+
+```{r, echo = FALSE, warning=FALSE, message=FALSE}
+library(googlesheets)
+library(dplyr)
+library(DT)
+my_gsheet_key <- "1vWC1mHbpr9UukGPYTUr8eo5IVU_ePTW79AKzQf28v2Q"
+my_gsheet <- gs_key(my_gsheet_key, visibility = "public") 
+
+sched <- gs_read(ss = my_gsheet)
+
+sched <- select(sched, -c("time"))
+
+sched %>% 
+datatable(rownames = FALSE,
+          options = list(
+            #pageLength = 11, 
+            autoWidth = TRUE, 
+            lengthChange = FALSE,
+            paginate = FALSE,
+            info = FALSE,
+            columnDefs = list(list(
+              className = 'dt-left', 
+              targets = 0),
+              list(className = 'dt-center', targets = 1))))
+
+
+
+
+```
+

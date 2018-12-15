@@ -60,6 +60,15 @@ Since time was of the essence and writing is expensive, I decided to do the prot
     </item>
     
     <item>
+      <title>Schedules</title>
+      <link>/blog/schedules/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/schedules/</guid>
+      <description>## ## Attaching package: &amp;#39;dplyr&amp;#39; ## The following objects are masked from &amp;#39;package:stats&amp;#39;: ## ## filter, lag ## The following objects are masked from &amp;#39;package:base&amp;#39;: ## ## intersect, setdiff, setequal, union ## Worksheets feed constructed with public visibility </description>
+    </item>
+    
+    <item>
       <title>Inline 🐣Text Styles</title>
       <link>/blog/inline-style/</link>
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>

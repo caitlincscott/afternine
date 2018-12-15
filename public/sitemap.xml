@@ -8,11 +8,25 @@
   </url>
   
   <url>
+    <loc>/content/blog/welcome/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/typography/</loc>
   </url>
   
   <url>
+    <loc>/content/blog/typography/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/prototyping/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/blog/prototyping/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
   </url>
   
@@ -22,8 +36,28 @@
   </url>
   
   <url>
+    <loc>/content/blog/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/blog/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/schedules/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/blog/schedules/</loc>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -37,12 +71,26 @@
   </url>
   
   <url>
+    <loc>/content/blog/inline-style/</loc>
+    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
+    <loc>/content/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/faq/</loc>
   </url>
   
   <url>
@@ -54,6 +102,10 @@
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/content/company/</loc>
   </url>
   
   <url>
@@ -87,6 +139,10 @@
   </url>
   
   <url>
+    <loc>/content/password-recovery/</loc>
+  </url>
+  
+  <url>
     <loc>/password-recovery/</loc>
   </url>
   
@@ -110,13 +166,13 @@
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,7 +188,24 @@
   </url>
   
   <url>
+    <loc>/content/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/schedules/</loc>
+  </url>
+  
+  <url>
+    <loc>/schedules/</loc>
+  </url>
+  
+  <url>
     <loc>/account/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/account/</loc>
   </url>
   
   <url>
